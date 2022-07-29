@@ -1,3 +1,4 @@
+//mingw的路徑是桌電的
 {
     // 使用 IntelliSense 以得知可用的屬性。
     // 暫留以檢視現有屬性的描述。
@@ -23,12 +24,11 @@
                     "ignoreFailures": true
                 },
                 {
-                    "description":  "將反組譯碼變體設為 Intel",
+                    "description": "將反組譯碼變體設為 Intel",
                     "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }
             ]
         }
-
     ]
 }
